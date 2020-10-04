@@ -1,0 +1,26 @@
+.dropdown-menu{
+    height: auto;
+    width: 500px;
+}
+.items a:hover{
+    color: rgb(69, 69, 241);
+
+}
+.items a{
+    color: gray;
+    padding-bottom: 15px;
+}
+.btn a:hover{
+    color:rgb(67, 67, 238);
+}
+.btn a{
+    color: rgb(91, 85, 112);
+    font-weight: 600;
+}
+hr:hover{
+    color: mediumblue;
+
+}
+body{
+   background-color: rgb(242, 248, 248);
+}
